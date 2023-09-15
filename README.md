@@ -13,4 +13,26 @@ Repository has this structure:
 * Tasks are numbered continuously
     
 # Seminar001
-![Seminar 1 Home Work](https://s60vlx.storage.yandex.net/rdisk/dce091bd5e374f8ba79cea1bc24af71072709caf6e54961ab4a0a7bffc187f37/6504607b/MmrzcZdFqBsuAaoM02nEu_oeN8AqHezp8NHMSETetSIlNm8TDBUrzKMd3SB4xq0khkpP7TBD88WJm3PsbPMgEQ==?uid=0&filename=S001HW.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&fsize=298832&hid=5d7d4b0de4ab0975e922524c130d1f39&media_type=image&tknv=v2&etag=17290e5bba8b23f3982679c195fd2b92&rtoken=IdIuh5jZjL2D&force_default=no&ycrid=na-d20b0811b99e6eb4cbdf2aa9b12b4b1c-downloader3e&ts=60566092cd4c0&s=4b50a0b7ce1161113bb51ffe5e42eb3ac22a79141a61c59c84faf50a5be7ce08&pb=U2FsdGVkX18U0vta40gDFzsF6XH-GxDl74MNi_cC-cgAhdCsS78g3-AEoDcUzUoLplQKyWGhr5QKhzJxAmqnhX8r4VKetWPawb1rhSoMqrc)
+
+**Задача 2**: Напишите программу, которая на вход принимает два числа и выдаёт, какое число большее, а какое меньшее.
+
+    a = 5; b = 7 -> max = 7
+    a = 2 b = 10 -> max = 10
+    a = -9 b = -3 -> max = -3
+
+**Задача 4**: Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
+
+    2, 3, 7 -> 7
+    44 5 78 -> 78
+    22 3 9 -> 22
+
+**Задача 6**: Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным (делится ли оно на два без остатка).
+    
+    4 -> да
+    -3 -> нет
+    7 -> нет
+
+**Задача 8**: Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
+    
+    5 -> 2, 4
+    8 -> 2, 4, 6, 8
