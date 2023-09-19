@@ -5,8 +5,6 @@
 */
 
 // Метод выдает True если задан номер выходного дня недели.
-using System.Collections;
-
 int IsWeekend(int daynum)
 {
     if (daynum < 1) return -1;
