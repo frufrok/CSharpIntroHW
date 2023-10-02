@@ -74,4 +74,4 @@ Random r = new Random();
 int size = r.Next(1, 11);
 double[] array = RandomArrayDouble(size, -99.99, 99.99, 2);
 ShowArray(array, "Считаем разницу между минимальным и максимальным элементами массива:", "; ");
- Console.WriteLine($"Разность равна {Amplitude(array)}.");
+Console.WriteLine($"Разность равна {Amplitude(array)}.");
