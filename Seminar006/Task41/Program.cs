@@ -40,6 +40,7 @@ int PositiveValuesCount(int[] array, int youShouldNotChangeThisValue = 0)
     return youShouldNotChangeThisValue;
 }
 
+
 // Если не лень задавать числа:
 // Console.WriteLine("Укажите, сколько чисел Вы хотите ввести:");
 // int count = Convert.ToInt32(Console.ReadLine());
